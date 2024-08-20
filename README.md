@@ -120,7 +120,8 @@
 <br>
 <br>
 
-# Preparação para o Exame AZ-900 <div id='AZ900'><p>.</p></div>   <!-- tentando criar uma ancora -->
+# Preparação para o Exame AZ-900 
+<div id='AZ900'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
