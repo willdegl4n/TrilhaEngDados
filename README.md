@@ -74,7 +74,8 @@
 <br>
 
 <div id='trilhas'><p><h1> **Trilhas/Roteiros para estudos - Clique na Trilha abaixo:** </h1></p></div>  <!-- tentando criar uma ancora -->
- 
+
+![banner das trilhas](https://github.com/willdegl4n/TrilhaEngDados/blob/main/imagens/MatCertMSAzure.png?raw=true)
 
 ## [Trilha para AZ-900 - Fundamentos do Azure](#az900)
 ## [Trilha para DP-900 - Fundamentos de Dados do Azure](#dp900)
