@@ -73,7 +73,7 @@
 <br>
 <br>
 
-<div id='trilhas'><p><h1> **Trilhas/Roteiros para estudos - Clique na Trilha abaixo:** </h1></p></div>  <!-- tentando criar uma ancora -->
+<div id='trilhas'><p><h1>Trilhas/Roteiros para estudos - Clique na Trilha:</h1></p></div>  <!-- tentando criar uma ancora -->
 
 ![banner das trilhas](https://github.com/willdegl4n/TrilhaEngDados/blob/main/imagens/MatCertMSAzure.png?raw=true)
 
