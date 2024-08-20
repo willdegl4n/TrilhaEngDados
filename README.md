@@ -112,10 +112,9 @@
 <br>
 
 
-<div id='az900'><p><h1> Preparação para o Exame AZ-900 </h1></p></div>  <!-- tentando criar uma ancora -->
+<div id='az900'><p><h1> Preparação para o Exame AZ-900 </h1></p></div>   <!-- tentando criar uma ancora -->
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
-Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima) <br>
-[Voltar](#trilhas) 
 ---
 
 ## 📚 Material de Estudo
