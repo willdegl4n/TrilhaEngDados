@@ -74,7 +74,9 @@
 
 # **Trilhas/Roteiros para estudos - Clique na Trilha abaixo:**
 
-## [Trilha para AZ-900 - Fundamentos do Azure](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
+## [Trilha para AZ-900 - Fundamentos do Azure](https://github.com/willdegl4n/TrilhaEngDados#az900)
+
+(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
 
 ## [Trilha para DP-900 - Fundamentos de Dados do Azure](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
 
@@ -119,8 +121,8 @@
 <br>
 <br>
 
+<div id='AZ900'><p>Preparação para o Exame AZ-900</p></div>   <!-- tentando criar uma ancora -->
 
-# Preparação para o Exame AZ-900
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
