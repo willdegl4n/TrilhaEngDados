@@ -1,17 +1,18 @@
 # Roteiro de Estudos para Engenharia de Dados - Materiais Gratuitos
+![banner do roteiro](https://github.com/willdegl4n/TrilhaEngDados/blob/main/imagens/RoteiroEstEngDados.png?raw=true)
 
-Achou algum link quebrado? [Avise ao Ronnan](https://linktr.ee/ronnanlima)
+<p align="right">  Achou algum link quebrado? <a href="url"https://linktr.ee/ronnanlima">Avise ao Ronnan</a></p>
 
-## 1. Fundamentos de Programação Lógica, GitHub, Linux[^1^][1]
+## 1. Fundamentos de Programação Lógica, GitHub, Linux
 
 ### Introdução à Lógica de Programação
-- [Curso: Introdução à Lógica de Programação](https://mundi.ifsul.edu.br/portal/introducao-a-logica-de-programacao.php)[^1^][1]
+- [Curso: Introdução à Lógica de Programação](https://mundi.ifsul.edu.br/portal/introducao-a-logica-de-programacao.php)
 - ~~[Curso: Lógica de Programação](https://www.softblue.com.br/site/curso/id/6/CURSO+DE+LOGICA+DE+PROGRAMACAO+BASICO+ON+LINE+LO06+GRATIS) (removido site desativado)~~
 - [Playlist: Lógica de programação](https://www.youtube.com/watch?v=JaTf3dhx464&list=PLfdDa19nz5SpJMLiGkRSctLH7QBr44goY)
 
-### Fundamentos de Programação[^1^][1]
+### Fundamentos de Programação
 - [Curso: Fundamentos da Programação](https://mundi.ifsul.edu.br/portal/fundamentos-da-programacao.php)
-- [Curso: Fundamentos de Programação com Linguagem Python](https://mundi.ifsul.edu.br/portal/fundamentos-de-programacao-com-linguagem-python.php)[^1^][1]
+- [Curso: Fundamentos de Programação com Linguagem Python](https://mundi.ifsul.edu.br/portal/fundamentos-de-programacao-com-linguagem-python.php)
 
 ### GitHub e Linux
 - [Curso: Introdução ao GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
@@ -23,7 +24,7 @@ Achou algum link quebrado? [Avise ao Ronnan](https://linktr.ee/ronnanlima)
 
 ### Python para Iniciantes
 - [Curso: Python Fundamentos](https://www.datascienceacademy.com.br/cursosgratuitos)
-- [Curso: Linguagem de Programação Python Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)[^1^][1]
+- [Curso: Linguagem de Programação Python Básico](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico)
 - [Curso: Introdução ao Python para Data Science](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
 - [Curso: Python 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
 - [Curso: Python 2](https://www.cursoemvideo.com/curso/python-3-mundo-2/)
@@ -41,7 +42,7 @@ Achou algum link quebrado? [Avise ao Ronnan](https://linktr.ee/ronnanlima)
 
 ### Introdução à Banco de Dados
 - [Curso: Banco de Dados 1: Fundamentos](https://mundi.ifsul.edu.br/portal/banco-de-dados.php)
-- [Curso: Administrador de Banco de Dados (extra abril) - Turma 2024A](https://moodle.ifrs.edu.br/course/index.php?categoryid=79)[^2^][2]
+- [Curso: Administrador de Banco de Dados (extra abril) - Turma 2024A](https://moodle.ifrs.edu.br/course/index.php?categoryid=79)
 - [Curso: Administrador de Banco de Dados (extra Jan/Fev/Mar) - Turma 2024A](https://moodle.ifrs.edu.br/course/index.php?categoryid=79)
 
 ### SQL e Manipulação de Dados
