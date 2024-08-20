@@ -1,4 +1,5 @@
-# Roteiro de Estudos para Engenharia de Dados - Materiais Gratuitos
+<div id='roteiro'><p><h1> Roteiro de Estudos para Engenharia de Dados - Materiais Gratuitos </h1></p></div>  <!-- tentando criar uma ancora -->
+
 ![banner do roteiro](https://github.com/willdegl4n/TrilhaEngDados/blob/main/imagens/RoteiroEstEngDados.png?raw=true)
 
 <p align="right">  Achou algum link quebrado? <a href="url"https://linktr.ee/ronnanlima">Avise ao Ronnan</a></p>
@@ -75,27 +76,16 @@
 # **Trilhas/Roteiros para estudos - Clique na Trilha abaixo:**
 
 ## [Trilha para AZ-900 - Fundamentos do Azure](#az900)
-<!-- (https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 ## [Trilha para DP-900 - Fundamentos de Dados do Azure](#dp900)
-<!-- (https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 ## [Trilha para AI-900 - Fundamentos de IA do Azure](#ai900)
-<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 ## [Trilha para MB-910 - Fundamentos do Microsoft Dynamics 365](#mb910)
-<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 ## [Trilha para SC-900 - Fundamentos de Segurança do Microsoft](#sc900)
-<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 ## [Trilha para MS-900 - Fundamentos do Microsoft 365](#ms900)
-<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 ## [**Trilha para PL-900 - Fundamentos de Power Platform**](#pl900)
-<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 ## [Trilha para DP-203 -  Engenharia de Dados](#dp203)
-<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 ## [Trilha para AZ-104 - Administração do Azure](#az104)
-<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Roteiro de Estudos - Preparatório para Engenharia de Dados](#top)
-<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Roteiro de Estudos - Preparatório para Engenharia de Dados](#roteiro)
 ## [Simulados Oficiais para Certificações Microsoft Azure](#simulado)
-<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 
 <br>
 <br>
@@ -121,7 +111,7 @@
 <br>
 
 
-<div id='AZ900'><p><h1> Preparação para o Exame AZ-900 </h1></p></div>  <!-- tentando criar uma ancora -->
+<div id='az900'><p><h1> Preparação para o Exame AZ-900 </h1></p></div>  <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
