@@ -199,7 +199,7 @@ Boa sorte na sua preparação!
 
 <div id='dp900'><p><h1> Preparação para o Exame DP-900 </h1></p></div> <!-- tentando criar uma ancora -->
 
-Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
 ---
 
@@ -281,7 +281,7 @@ Boa sorte na sua preparação!
 <div id='ai900'><p><h1>Preparação para o Exame AI-900 </h1></p></div> <!-- tentando criar uma ancora -->
 
 
-Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
 ---
 
@@ -361,7 +361,7 @@ Boa sorte na sua preparação!
 
 <div id='mb910'><p><h1> Preparação para o Exame MB-910 </h1></p></div> <!-- tentando criar uma ancora -->
 
-Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
 ---
 
@@ -425,7 +425,7 @@ Boa sorte na sua preparação!
 
 <div id='sc900'><p><h1> Preparação para o Exame SC-900  </h1></p></div> <!-- tentando criar uma ancora -->
 
-Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
 ---
 
@@ -506,7 +506,7 @@ Boa sorte na sua preparação!
 
 <div id='ms900'><p><h1>Preparação para o Exame MS-900 </h1></p></div> <!-- tentando criar uma ancora -->
 
-Achou algum link quebrado? [Me avise](https://www.linkedin.com/in/ronnanlima/)
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
 ---
 
@@ -574,7 +574,7 @@ Boa sorte na sua preparação!
 
 <div id='pl900'><p><h1> Preparação para o Exame PL-900 </h1></p></div> <!-- tentando criar uma ancora -->
 
-Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
 ---
 
@@ -642,7 +642,7 @@ Boa sorte na sua preparação!
 
 <div id='dp203'><p><h1> Preparação para o Exame DP-203 </h1></p></div> <!-- tentando criar uma ancora -->
 
-Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
 ---
 
@@ -729,7 +729,7 @@ Boa sorte na sua preparação!
 
 <div id='az104'><p><h1>  Preparação para o Exame AZ-104 </h1></p></div> <!-- tentando criar uma ancora -->
 
-Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
 ---
 
@@ -806,6 +806,7 @@ Boa sorte na sua preparação!
 
 
 <div id='simulado'><p><h1> Simulados Oficiais para Certificações Azure </h1></p></div> <!-- tentando criar uma ancora -->
+Achou algum link quebrado? <a href="https://linktr.ee/ronnanlima">[Me avise]</a> | <a href="#trilhas">[Voltar]</a>
 
 | Número da Certificação | Nome em Português | Link |
 | --- | --- | --- |
