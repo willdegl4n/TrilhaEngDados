@@ -73,7 +73,8 @@
 <br>
 <br>
 
-# **Trilhas/Roteiros para estudos - Clique na Trilha abaixo:**
+<div id='trilhas'><p><h1> **Trilhas/Roteiros para estudos - Clique na Trilha abaixo:** </h1></p></div>  <!-- tentando criar uma ancora -->
+ 
 
 ## [Trilha para AZ-900 - Fundamentos do Azure](#az900)
 ## [Trilha para DP-900 - Fundamentos de Dados do Azure](#dp900)
@@ -113,8 +114,8 @@
 
 <div id='az900'><p><h1> Preparação para o Exame AZ-900 </h1></p></div>  <!-- tentando criar uma ancora -->
 
-Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
-
+Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima) 
+[Voltar](#trilhas) 
 ---
 
 ## 📚 Material de Estudo
