@@ -75,29 +75,28 @@
 # **Trilhas/Roteiros para estudos - Clique na Trilha abaixo:**
 
 ## [Trilha para AZ-900 - Fundamentos do Azure](https://github.com/willdegl4n/TrilhaEngDados#az900)
+<!-- (https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Trilha para DP-900 - Fundamentos de Dados do Azure](https://github.com/willdegl4n/TrilhaEngDados#dp900)
+<!-- (https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Trilha para AI-900 - Fundamentos de IA do Azure](https://github.com/willdegl4n/TrilhaEngDados#ai900)
+<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Trilha para MB-910 - Fundamentos do Microsoft Dynamics 365](https://github.com/willdegl4n/TrilhaEngDados#mb910)
+<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Trilha para SC-900 - Fundamentos de Segurança do Microsoft](https://github.com/willdegl4n/TrilhaEngDados#sc900)
+<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Trilha para MS-900 - Fundamentos do Microsoft 365](https://github.com/willdegl4n/TrilhaEngDados#ms900)
+<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [**Trilha para PL-900 - Fundamentos de Power Platform**](https://github.com/willdegl4n/TrilhaEngDados#pl900)
+<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Trilha para DP-203 -  Engenharia de Dados](https://github.com/willdegl4n/TrilhaEngDados#dp203)
+<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Trilha para AZ-104 - Administração do Azure](https://github.com/willdegl4n/TrilhaEngDados#az104)
+<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Roteiro de Estudos - Preparatório para Engenharia de Dados](https://github.com/willdegl4n/TrilhaEngDados#top)
+<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
+## [Simulados Oficiais para Certificações Microsoft Azure](https://github.com/willdegl4n/TrilhaEngDados#simulado)
+<!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 
-(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [Trilha para DP-900 - Fundamentos de Dados do Azure](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [Trilha para AI-900 - Fundamentos de IA do Azure](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [Trilha para MB-910 - Fundamentos do Microsoft Dynamics 365](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [Trilha para SC-900 - Fundamentos de Segurança do Microsoft](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [Trilha para MS-900 - Fundamentos do Microsoft 365](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [**Trilha para PL-900 - Fundamentos de Power Platform**](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [Trilha para DP-203 -  Engenharia de Dados](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [Trilha para AZ-104 - Administração do Azure](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [Roteiro de Estudos - Preparatório para Engenharia de Dados](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
-## [Simulados Oficiais para Certificações Microsoft Azure](https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21)
-
 <br>
 <br>
 <br>
@@ -121,8 +120,7 @@
 <br>
 <br>
 
-<div id='AZ900'><p>Preparação para o Exame AZ-900</p></div>   <!-- tentando criar uma ancora -->
-
+# Preparação para o Exame AZ-900 <div id='AZ900'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -208,8 +206,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-
-# Preparação para o Exame DP-900
+# Preparação para o Exame DP-900 <div id='dp900'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -290,8 +287,8 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
+# Preparação para o Exame AI-900 <div id='ai900'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
-# Preparação para o Exame AI-900
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -371,8 +368,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-
-# Preparação para o Exame MB-910
+# Preparação para o Exame MB-910 <div id='mb910'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -436,8 +432,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-
-# Preparação para o Exame SC-900
+# Preparação para o Exame SC-900 <div id='sc900'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -518,8 +513,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-
-# Preparação para o Exame MS-900
+# Preparação para o Exame MS-900 <div id='ms900'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://www.linkedin.com/in/ronnanlima/)
 
@@ -587,7 +581,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame PL-900
+# Preparação para o Exame PL-900 <div id='pl900'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -655,8 +649,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-
-# Preparação para o Exame DP-203
+# Preparação para o Exame DP-203 <div id='dp203'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -743,7 +736,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame AZ-104
+# Preparação para o Exame AZ-104 <div id='AZ104'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -821,7 +814,7 @@ Boa sorte na sua preparação!
 <br>
 
 
-# Simulados Oficiais para Certificações Azure
+# Simulados Oficiais para Certificações Azure <div id='simulado'><p>.</p></div>   <!-- tentando criar uma ancora -->
 
 | Número da Certificação | Nome em Português | Link |
 | --- | --- | --- |
