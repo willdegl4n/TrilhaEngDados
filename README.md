@@ -76,25 +76,25 @@
 
 ## [Trilha para AZ-900 - Fundamentos do Azure](#az900)
 <!-- (https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Trilha para DP-900 - Fundamentos de Dados do Azure](https://github.com/willdegl4n/TrilhaEngDados#dp900)
+## [Trilha para DP-900 - Fundamentos de Dados do Azure](#dp900)
 <!-- (https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Trilha para AI-900 - Fundamentos de IA do Azure](https://github.com/willdegl4n/TrilhaEngDados#ai900)
+## [Trilha para AI-900 - Fundamentos de IA do Azure](#ai900)
 <!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Trilha para MB-910 - Fundamentos do Microsoft Dynamics 365](https://github.com/willdegl4n/TrilhaEngDados#mb910)
+## [Trilha para MB-910 - Fundamentos do Microsoft Dynamics 365](#mb910)
 <!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Trilha para SC-900 - Fundamentos de Segurança do Microsoft](https://github.com/willdegl4n/TrilhaEngDados#sc900)
+## [Trilha para SC-900 - Fundamentos de Segurança do Microsoft](#sc900)
 <!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Trilha para MS-900 - Fundamentos do Microsoft 365](https://github.com/willdegl4n/TrilhaEngDados#ms900)
+## [Trilha para MS-900 - Fundamentos do Microsoft 365](#ms900)
 <!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [**Trilha para PL-900 - Fundamentos de Power Platform**](https://github.com/willdegl4n/TrilhaEngDados#pl900)
+## [**Trilha para PL-900 - Fundamentos de Power Platform**](#pl900)
 <!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Trilha para DP-203 -  Engenharia de Dados](https://github.com/willdegl4n/TrilhaEngDados#dp203)
+## [Trilha para DP-203 -  Engenharia de Dados](#dp203)
 <!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Trilha para AZ-104 - Administração do Azure](https://github.com/willdegl4n/TrilhaEngDados#az104)
+## [Trilha para AZ-104 - Administração do Azure](#az104)
 <!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Roteiro de Estudos - Preparatório para Engenharia de Dados](https://github.com/willdegl4n/TrilhaEngDados#top)
+## [Roteiro de Estudos - Preparatório para Engenharia de Dados](#top)
 <!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
-## [Simulados Oficiais para Certificações Microsoft Azure](https://github.com/willdegl4n/TrilhaEngDados#simulado)
+## [Simulados Oficiais para Certificações Microsoft Azure](#simulado)
 <!--(https://www.notion.so/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c?pvs=21) -->
 
 <br>
@@ -207,7 +207,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame DP-900 <div id='dp900'><p>.</p></div>   <!-- tentando criar uma ancora -->
+<div id='dp900'><p><h1> Preparação para o Exame DP-900 </h1></p></div> <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -288,7 +288,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame AI-900 <div id='ai900'><p>.</p></div>   <!-- tentando criar uma ancora -->
+<div id='ai900'><p><h1>Preparação para o Exame AI-900 </h1></p></div> <!-- tentando criar uma ancora -->
 
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
@@ -369,7 +369,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame MB-910 <div id='mb910'><p>.</p></div>   <!-- tentando criar uma ancora -->
+<div id='mb910'><p><h1> Preparação para o Exame MB-910 </h1></p></div> <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -433,7 +433,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame SC-900 <div id='sc900'><p>.</p></div>   <!-- tentando criar uma ancora -->
+<div id='sc900'><p><h1> Preparação para o Exame SC-900  </h1></p></div> <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -514,7 +514,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame MS-900 <div id='ms900'><p>.</p></div>   <!-- tentando criar uma ancora -->
+<div id='ms900'><p><h1>Preparação para o Exame MS-900 </h1></p></div> <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://www.linkedin.com/in/ronnanlima/)
 
@@ -582,7 +582,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame PL-900 <div id='pl900'><p>.</p></div>   <!-- tentando criar uma ancora -->
+<div id='pl900'><p><h1> Preparação para o Exame PL-900 </h1></p></div> <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -650,7 +650,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame DP-203 <div id='dp203'><p>.</p></div>   <!-- tentando criar uma ancora -->
+<div id='dp203'><p><h1> Preparação para o Exame DP-203 </h1></p></div> <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -737,7 +737,7 @@ Boa sorte na sua preparação!
 <br>
 <br>
 
-# Preparação para o Exame AZ-104 <div id='AZ104'><p>.</p></div>   <!-- tentando criar uma ancora -->
+<div id='az104'><p><h1>  Preparação para o Exame AZ-104 </h1></p></div> <!-- tentando criar uma ancora -->
 
 Achou algum link quebrado? [Me avise](https://linktr.ee/ronnanlima)
 
@@ -815,7 +815,7 @@ Boa sorte na sua preparação!
 <br>
 
 
-# Simulados Oficiais para Certificações Azure <div id='simulado'><p>.</p></div>   <!-- tentando criar uma ancora -->
+<div id='simulado'><p><h1> Simulados Oficiais para Certificações Azure </h1></p></div> <!-- tentando criar uma ancora -->
 
 | Número da Certificação | Nome em Português | Link |
 | --- | --- | --- |
